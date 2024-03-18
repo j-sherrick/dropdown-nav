@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "name": "basic-static-html",
+  "version": "1.0.0",
+  "description": "Basic 5 page static HTML site for tinkering",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "practice",
+    "tutorials",
+    "templates",
+    "reusable",
+    "interactivity",
+    "DOM-manipulation",
+    "DOM"
+  ],
+  "author": "Jason Sherrick",
+  "license": "MIT"
+}
